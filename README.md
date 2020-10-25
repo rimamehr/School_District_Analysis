@@ -36,6 +36,7 @@ We can compare the two images below that shows the old District summary in compa
 
 ## How is the school summary affected?
 
+We can compare the two images below to see that other than Thomas High School(THS), all the other schools remained uneffected. After removing the math and reading scores for the 9th graders at THS, the % passing math, reading and overall went up quite a bit. 
 
 #### Old School Summary
 
