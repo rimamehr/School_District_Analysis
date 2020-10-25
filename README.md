@@ -73,6 +73,8 @@ While comparing the images below, we can see that even though the overall passin
 
 ## How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
+- when looking at math and reading score by grade, all the schools remained unaffected except THS ninth grade scores returned a NaN value.
+
 Scores by school spending
 Scores by school size
 Scores by school type
