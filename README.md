@@ -51,3 +51,19 @@ We can compare the two images below to see that other than Thomas High School(TH
 <p align="left">
   <img src="/Images/New School Summary.png">
   </p>
+
+## How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+#### Old Top School
+
+<p align="left">
+  <img src="/Images/Old Top School.png">
+  </p>
+
+
+#### New Top School
+
+
+<p align="left">
+  <img src="/Images/New Top School.png">
+  </p>
