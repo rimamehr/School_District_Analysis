@@ -54,6 +54,8 @@ We can compare the two images below to see that other than Thomas High School(TH
 
 ## How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
+While comparing the images below, we can see that even though the overall percentage for Thomas High School went down from 90.95 to 90.63, that slight reduction did not change the relative performance for THS in comparison to other schools and they still remained at 2nd place.
+
 #### Old Top School
 
 <p align="left">
