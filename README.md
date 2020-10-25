@@ -89,3 +89,4 @@ Removing the math and reading scores for the 9th graders at THS did not signific
 - % Passing Math for THS went from 66.90 to 93.18
 - % Passing Reading for THS went from 69.65 to 97.02
 - % Passing Overall for THS went from 65.08 to 90.63
+- When looking at the overall district summary the average scores and % passing went down by less than .05%
