@@ -57,7 +57,7 @@ We can compare the two images below to see that other than Thomas High School(TH
 #### Old Top School
 
 <p align="left">
-  <img src="/Images/Old_Top_School.png">
+  <img src="/Images/Old_top_schools.png">
   </p>
 
 
@@ -65,5 +65,5 @@ We can compare the two images below to see that other than Thomas High School(TH
 
 
 <p align="left">
-  <img src="/Images/New_Top_School.png">
+  <img src="/Images/New_top_schools.png">
   </p>
