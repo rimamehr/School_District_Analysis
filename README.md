@@ -19,5 +19,5 @@ We are here to help Maria replace the math and reading scores for Thomas High Sc
 #### Old District Summary
 
 <p align="left">
-  <img src="/Images/Old District Summary.png" width="400">
+  <img src="/Images/Old District Summary.png">
   </p>
