@@ -76,10 +76,10 @@ Math and reading scores by grade
 - when looking at math and reading score by grade, all the schools remained unaffected except THS ninth grade scores returned a NaN value.
 
 Scores by school spending
-- the score by school spending remained unchanged.
+- the score by school spending remained unchanged when rounding to integer. (Less than 1% change)
 
 Scores by school size
-- the score by school size remained unchanged as well.
+- the score by school size remained unchanged as well when rounding to integer. (Less than 1% change)
 
 Scores by school type
-- the score by school type reamined unchanged as well.
+- the score by school type reamined unchanged as well when rounding to integer. (Less than 1% change)
