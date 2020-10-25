@@ -76,5 +76,10 @@ Math and reading scores by grade
 - when looking at math and reading score by grade, all the schools remained unaffected except THS ninth grade scores returned a NaN value.
 
 Scores by school spending
+- the score by school spending remained unchanged.
+
 Scores by school size
+- the score by school size remained unchanged as well.
+
 Scores by school type
+- the score by school type reamined unchanged as well.
