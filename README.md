@@ -32,3 +32,21 @@ We can compare the two images below that shows the old District summary in compa
 <p align="left">
   <img src="/Images/New District Summary.png">
   </p>
+
+
+## How is the school summary affected?
+
+
+#### Old School Summary
+
+<p align="left">
+  <img src="/Images/Old School Summary.png">
+  </p>
+
+
+#### New School Summary
+
+
+<p align="left">
+  <img src="/Images/New School Summary.png">
+  </p>
