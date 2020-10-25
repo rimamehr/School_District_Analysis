@@ -16,6 +16,9 @@ We are here to help Maria replace the math and reading scores for Thomas High Sc
 ## Results of the School District Analysis
 
 ### How is the district summary affected?
+
+We can compare the two images below that shows the old District summary in comparison to the new one to see that the Average Math Score, % Passing Math, % Passing Reading, and % Overall Passing were slightly affected and went down when we removed the data for 9th graders of Thomas High School. 
+
 #### Old District Summary
 
 <p align="left">
