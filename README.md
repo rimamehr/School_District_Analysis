@@ -12,3 +12,12 @@ The school board has contacted Maria to help with some analysis on the school an
 After our initial analysis, the school board notified Maria and her supervisor that the students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards and have turned to Maria for help. 
 
 We are here to help Maria replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Once we replaced the math and reading scores, we repeated the school district analysis to see how these changes affected the overall analysis.
+
+## Results of the School District Analysis
+
+### How is the district summary affected?
+#### Old District Summary
+
+<p align="left">
+  <img src="/Images/Old District Summary.png" width="400">
+  </p>
