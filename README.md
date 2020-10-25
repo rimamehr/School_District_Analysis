@@ -83,3 +83,9 @@ Scores by school size
 
 Scores by school type
 - the score by school type reamined unchanged as well when rounding to integer. (Less than 1% change)
+
+## Summary
+Removing the math and reading scores for the 9th graders at THS did not significantly effect our analysis. Some of the major changes we saw  were;
+- % Passing Math for THS went from 66.90 to 93.18
+- % Passing Reading for THS went from 69.65 to 97.02
+- % Passing Overall for THS went from 65.08 to 90.63
